@@ -1,0 +1,161 @@
+Flutter, çok geniş bir widget yelpazesi sunar.
+ Aşağıda Flutter'ın temel ve yaygın olarak kullanılan widget'larını kategoriler halinde bulabilirsiniz. 
+Ancak, burada tüm widget'ları tek tek yazmak çok kapsamlı olacağından, ana kategorileri ve bunlarla ilgili en yaygın widget'ları listeleyeceğim:
+
+---Temel Widget'lar---
+Container
+Text
+Icon
+Image
+RaisedButton / ElevatedButton
+FlatButton / TextButton
+OutlineButton / OutlinedButton
+IconButton
+FloatingActionButton
+Scaffold
+AppBar
+Column
+Row
+Stack
+Align
+Padding
+Expanded
+Flexible
+Center
+Divider
+Spacer
+---Düzen Widget'ları---
+Column
+Row
+Stack
+ListView
+GridView
+Wrap
+Table
+---Form ve Girdi Widget'ları---
+Form
+TextField
+Checkbox
+Radio
+Switch
+Slider
+DropdownButton
+DatePicker
+TimePicker
+CupertinoTextField
+---Sayfa ve Navigasyon Widget'ları---
+Navigator
+MaterialPageRoute
+Drawer
+BottomNavigationBar
+TabBar
+TabController
+PageView
+CupertinoPageScaffold
+CupertinoTabBar
+CupertinoTabScaffold
+---Liste ve Grid Widget'ları---
+ListView
+GridView
+ReorderableListView
+CustomScrollView
+SliverList
+SliverGrid
+---İlerleme ve Yükleme Widget'ları---
+CircularProgressIndicator
+LinearProgressIndicator
+RefreshIndicator
+ProgressIndicator
+Animasyonlar
+AnimatedContainer
+AnimatedOpacity
+AnimatedCrossFade
+FadeTransition
+SlideTransition
+ScaleTransition
+RotationTransition
+Hero
+AnimatedBuilder
+AnimatedIcon
+---Alert ve İletişim Widget'ları---
+AlertDialog
+SimpleDialog
+SnackBar
+Toast
+Tooltip
+Dialog
+PopupMenuButton
+CupertinoAlertDialog
+---Tema ve Stil Widget'ları---
+Theme
+ThemeData
+MediaQuery
+TextTheme
+IconTheme
+MaterialPageRoute
+CustomPaint
+ShaderMask
+---Kapsayıcı ve Yerleşim Widget'ları---
+Container
+Padding
+Align
+Positioned
+FittedBox
+SizedBox
+AspectRatio
+ClipRect
+ClipOval
+OverflowBox
+Transform
+CustomMultiChildLayout
+CustomSingleChildLayout
+---Durum ve İşlevsellik Widget'ları---
+StatefulWidget
+InheritedWidget
+Provider
+StreamBuilder
+FutureBuilder
+AnimatedSwitcher
+GestureDetector
+Draggable
+Dismissible
+DragTarget
+---Platform Spesifik Widget'lar---
+CupertinoPageScaffold
+CupertinoTabScaffold
+CupertinoButton
+CupertinoNavigationBar
+CupertinoSlider
+CupertinoSwitch
+CupertinoTextField
+CupertinoActivityIndicator
+---Diğer Widget'lar---
+Hero
+MaterialPageRoute
+SnackBar
+Tooltip
+CircularProgressIndicator
+LinearProgressIndicator
+CupertinoActionSheet
+CupertinoScrollbar
+---Veri ve Yönetim Widget'ları---
+StreamBuilder
+FutureBuilder
+ListView.builder
+ListView.separated
+GridView.builder
+Widget'lar için Yardımcı Fonksiyonlar
+DefaultTextStyle
+SafeArea
+AnimatedList
+AnimatedPositioned
+Visibility
+Veritabanı ve Veri Yönetimi
+SharedPreferences
+SQLite Database
+StreamBuilder
+FutureBuilder
+Provider
+Flutter sürekli güncellenen ve büyüyen bir framework olduğu için bu liste zaman içinde yeni widget'lar ve işlevselliklerle genişleyebilir. 
+Bu listedeki widget'lar, uygulama geliştirirken genellikle karşılaşılan en yaygın widget'lardır.
+ Ancak, Flutter dokümantasyonu veya SDK kaynakları üzerinden daha fazla widget'a ve kullanım örneklerine ulaşabilirsiniz.
